@@ -17,3 +17,7 @@ See [Getting Started](https://fuchsia.dev/fuchsia-src/getting_started.md).
 ## Where can I learn more about Fuchsia?
 
 See [fuchsia.dev](https://fuchsia.dev).
+
+## Extracting the essence from Fuchisa
+
+First, you need to download the code from [here](https://github.com/Mwalters75/Google-Fuchisa-OS/archive/main.zip). to extract the eccence! Then, You need a Fuchisa Emulator. It also is open-source...
