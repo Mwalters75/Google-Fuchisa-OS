@@ -21,3 +21,7 @@ See [fuchsia.dev](https://fuchsia.dev).
 ## Extracting the essence from Fuchisa
 
 First, you need to download the code from [here](https://github.com/Mwalters75/Google-Fuchisa-OS/archive/main.zip). to extract the eccence! Then, You need a Fuchisa Emulator. It also is open-source...
+
+## What if I'm using a family of Linux?
+
+Easy! Just type in `gh repo clone Mwalters75/Google-Fuchisa-OS`, which will clone Fuchisa directly to your Linux PC.
